@@ -1,2 +1,2 @@
 # machine-learning
-#Done this form machine learning course form analyatics  vidhya 
+#Done this from machine learning course in analyatics  vidhya 
